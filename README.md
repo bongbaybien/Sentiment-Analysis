@@ -7,5 +7,6 @@ LexVec word embedding model(claimed to get better performance): https://github.c
 
 
 Reference:
+https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
